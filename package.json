@@ -1,0 +1,16 @@
+{
+  "name": "rule-based-engine",
+  "version": "1.0.0",
+  "description": "A rule based engine package that is built depending on the package done by Ahmed Sherien (https://github.com/ahmed-sherien/RuleBasedEngine)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rule",
+    "based",
+    "engine"
+  ],
+  "author": "Hazem Gharib",
+  "license": "ISC"
+}
